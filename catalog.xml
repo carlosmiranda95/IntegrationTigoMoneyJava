@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://190.129.208.178:96/PasarelaServices/CustomerServices?wsdl" uri="xml-resources/web-service-references/CustomerServices/wsdl/190.129.208.178_96/PasarelaServices/CustomerServices.wsdl"/>
+    <system systemId="http://190.129.208.178:96/PasarelaServices/CustomerServices?xsd=1" uri="xml-resources/web-service-references/CustomerServices/wsdl/190.129.208.178_96/PasarelaServices/CustomerServices.xsd_1.xsd"/>
+    <system systemId="https://integracionmoney.000webhostapp.com/PasarelaSandbox/service.php?wsdl" uri="xml-resources/web-service-references/service/wsdl/integracionmoney.000webhostapp.com/PasarelaSandbox/service.php.wsdl"/>
+    <system systemId="https://integracionmoney.000webhostapp.com/PasarelaSandbox/service.xsd" uri="xml-resources/web-service-references/service/wsdl/integracionmoney.000webhostapp.com/PasarelaSandbox/service.xsd"/>
+    <system systemId="https://pasarelatest.tigo.net.bo/PasarelaServices_V2/CustomerServices?wsdl" uri="xml-resources/web-service-references/CustomerServices/wsdl/pasarelatest.tigo.net.bo/PasarelaServices_V2/CustomerServices.wsdl"/>
+    <system systemId="https://190.104.0.116/PasarelaServices_V2/CustomerServices?xsd=1" uri="xml-resources/web-service-references/CustomerServices/wsdl/190.104.0.116/PasarelaServices_V2/CustomerServices.xsd_1.xsd"/>
+    <system systemId="https://190.104.0.116/PasarelaServices_V2/CustomerServices?wsdl" uri="xml-resources/web-service-references/CustomerServices/wsdl/190.104.0.116/PasarelaServices_V2/CustomerServices.wsdl"/>
+    <system systemId="https://190.104.0.116:443/PasarelaServices_V2/CustomerServices?xsd=1" uri="xml-resources/web-service-references/CustomerServices/wsdl/190.104.0.116_443/PasarelaServices_V2/CustomerServices.xsd_1.xsd"/>
+</catalog>
